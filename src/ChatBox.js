@@ -78,6 +78,7 @@ const ChatBox = () => {
 
 
   const handleSendMessage = async (event) => {
+    if(message.trim() === ""){return}
     event.preventDefault();
     setLoading(true);
     if(message === "/info"){
