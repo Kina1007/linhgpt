@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/linhgpt/static/css/main.b22935ff.css",
-    "main.js": "/linhgpt/static/js/main.2dbda137.js",
+    "main.js": "/linhgpt/static/js/main.6ff1d27b.js",
     "static/js/787.d34d94c4.chunk.js": "/linhgpt/static/js/787.d34d94c4.chunk.js",
     "static/media/Linh.jpg": "/linhgpt/static/media/Linh.211b21385820ef8406c7.jpg",
     "index.html": "/linhgpt/index.html",
     "main.b22935ff.css.map": "/linhgpt/static/css/main.b22935ff.css.map",
-    "main.2dbda137.js.map": "/linhgpt/static/js/main.2dbda137.js.map",
+    "main.6ff1d27b.js.map": "/linhgpt/static/js/main.6ff1d27b.js.map",
     "787.d34d94c4.chunk.js.map": "/linhgpt/static/js/787.d34d94c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b22935ff.css",
-    "static/js/main.2dbda137.js"
+    "static/js/main.6ff1d27b.js"
   ]
 }
