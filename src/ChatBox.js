@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown';
 import useSpeechToText from 'react-hook-speech-to-text';
 // import path from 'path';
 var env = "dev"
-const pathenv = env === "dev" ? "http://localhost:3000/" : "http://43.207.79.236:3000/"
+const pathenv = env === "prod" ? "http://localhost:3000/" : "http://43.207.79.236:3000/"
 
 const Message = (props) => {
   const { sender, message } = props;
