@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/linhgpt/static/css/main.073c9b0a.css",
+    "main.js": "/linhgpt/static/js/main.e77bec6b.js",
+    "static/js/787.d34d94c4.chunk.js": "/linhgpt/static/js/787.d34d94c4.chunk.js",
+    "static/media/logo.svg": "/linhgpt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/linhgpt/index.html",
+    "main.073c9b0a.css.map": "/linhgpt/static/css/main.073c9b0a.css.map",
+    "main.e77bec6b.js.map": "/linhgpt/static/js/main.e77bec6b.js.map",
+    "787.d34d94c4.chunk.js.map": "/linhgpt/static/js/787.d34d94c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e77bec6b.js"
+  ]
+}
